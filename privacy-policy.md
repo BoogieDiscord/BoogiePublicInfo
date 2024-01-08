@@ -18,7 +18,7 @@ Boogie employs industry-standard security measures to protect your information f
 
 **4. Data Retention**
 
-- **Guild Information:** Boogie retains Guild IDs and Guild settings for as long as necessary to provide optimal service.
+- **Guild Information:** Boogie retains Guild IDs and Guild settings for as long as necessary to provide optimal service (can be deleted if the bot was kicked (after a week of the kick) )
 
 - **Personal Playlists:** User data associated with personal playlists is retained as long as the playlist is active. If a user deletes their personal playlist, the associated data will be permanently removed.
 
