@@ -1,8 +1,6 @@
 # BoogieTOS
 **Boogie - Discord Music Bot Conditions of Use**
 
-Last Updated: [Date]
-
 Welcome to Boogie, the Discord music bot that orchestrates musical magic in your server! Before you join the symphony of sounds with Boogie, kindly familiarize yourself with our Conditions of Use.
 
 **1. Acceptance of Conditions**
